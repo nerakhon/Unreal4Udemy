@@ -56,7 +56,7 @@ void PlayGame()
 		std::cout << std::endl;
 		BCGame.IncrementTries();
 	}
-	// TODO summarize game
+	// TODO summarize game results
 }
 
 
